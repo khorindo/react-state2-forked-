@@ -1,0 +1,21 @@
+{
+  "name": "react-state2",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "@vitejs/plugin-react": "2.0.1",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "react-icons": "5.0.0",
+    "vite": "3.0.9"
+  },
+  "scripts": {
+    "start": "vite"
+  },
+  "devDependencies": {
+    "@types/node": "^17.0.21"
+  },
+  "keywords": [],
+  "description": ""
+}
